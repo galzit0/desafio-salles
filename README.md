@@ -97,6 +97,6 @@ Para importar contas a partir de um arquivo CSV, utilize a seguinte rota:
 
 ```
    descricao,data_vencimento,data_pagamento,valor,situacao
-   Conta de luz,2024-09-28,2024-09-30,100.00,PAGO
+   Conta de luz,2024-09-28,2024-09-30,100.00,PAGA
    Conta de água,2024-09-29,2024-10-01,50.00,PENDENTE
    ```
